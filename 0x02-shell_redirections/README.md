@@ -1,5 +1,6 @@
 0-hello_world - Write a script that prints “Hello, World”, followed by a new line to the standard output.
 2-hellofile - Display the content of the /etc/passwd file.
 4-lastlines - Display the last 10 lines of /etc/passwd
-\n5-firstlines - Display the first 10 lines of /etc/passwd
+5-firstlines - Display the first 10 lines of /etc/passwd
 6-third_line - Write a script that displays the third line of the file iacta. The file iacta will be in the working directory. You’re not allowed to use sed
+7-file - Write a shell script that creates a file named exactly *\'Holberton School'\*0*****:) containing the text Holberton School ending by a new line. R
