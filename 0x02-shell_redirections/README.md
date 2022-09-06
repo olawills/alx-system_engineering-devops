@@ -12,3 +12,10 @@
 13-unique - Create a scripts that takes a list of words as input and prints only words that appear exactly once. Input format: One line, one word Output format: One line, one word Words should be sorted
 14-findthatword - Display lines containing the pattern “root” from the file /etc/passwd (grep it)
 15-countthatword - Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+16-whatsnext - Display lines containing the pattern “root” and 3 lines after them in the file
+
+17-hidethisword - Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+18-letteronly - Display all lines of the file /etc/ssh/sshd_config starting with a letter. include capital letters as well
+
+19-AZ - Replace all characters A and c from input to Z and e respectively.
